@@ -1,0 +1,28 @@
+{
+  "albumName": "AMazing miX 40",
+  "theme": "bumblebee",
+  "downloadColor": "primary",
+  "releaseDate": "2018/3/24",
+  "downloadUrl": "https://1drv.ms/u/s!Ah9aQE8ok168jy1GWKqHiXGRD16M?e=efvQjj",
+  "albumDescription": "びっくり40曲メドレーと、そのおまけ",
+  "albumArtUrl": "https://textsampleofmusic.files.wordpress.com/2019/05/amx40.png?w=1024",
+  "songList": [
+    {
+      "songName": "AMazing miX 40",
+      "songUrl": "https://drive.google.com/uc?id=1vm26V3gqaYcBgRVnLEwZr0SQoZj3Lh1l",
+      "nicoId": "sm32927828",
+      "songDescription": "私的選曲多めのメドレーです。約40曲。"
+    },
+    {
+      "songName": "ウエライド：草(Ya Barely Remix)",
+      "songUrl": "https://drive.google.com/uc?id=1NsBzskz_59AGZei5IwtGLnVml-5l6df2",
+      "hideDetails": true
+    },
+    {
+      "songName": "柴又穴 / uboar",
+      "songUrl": "https://dl.dropboxusercontent.com/s/g4bi17f1p1d24hv/11.%E6%9F%B4%E5%8F%88%E7%A9%B4.mp3",
+      "nicoId": "sm32608256",
+      "songDescription": "音MAD要素はありません"
+    }
+  ]
+}

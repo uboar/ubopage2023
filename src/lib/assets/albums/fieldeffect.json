@@ -1,0 +1,41 @@
+{
+  "albumName": "Field Effect",
+  "theme": "night",
+  "downloadColor": "primary",
+  "releaseDate": "2017/12/17",
+  "downloadUrl": "https://www.dropbox.com/sh/epm0zx8snvh5vuc/AAAlVqpHxapqLF3b1IrmFmDka?dl=0",
+  "albumDescription": "～2016年頃の単曲アレンジなどまとめアルバム",
+  "albumArtUrl": "https://bl3302files.storage.live.com/y4m1VQzvvt6gfGjCzydpmlSGWfvAvGPY00huaquwq7KwAM9PUrj4IdMLfPtyDdROAAsHMHM2rVLvnSKCX48gF0MKVjx9HvfTWP-EGd0SGol4gqGwNLs8wOdNHDWaBCcHsWXuFgjBVIoRh9JH8Jqp_ZDHVyjOkhCFHWRzlA7flDnaFbbk59Lh2i5kKuNeTTE7n4X?width=800&height=800&cropmode=none",
+  "songList": [
+    {
+      "songName": "Yo-Kai Disco(Ya Barely Remix V2 Remaster-2017)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/oldh24lg989cr9f/01.%20Yo-Kai%20Disco%28Ya%20Barely%20Remix%20V2%20Remaster-2017%29.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Karakuri Spirits(Ya Barely Remix Remaster-2017)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/k12c6hdlv8k3zbv/02.%20Karakuri%20Spirits%28Ya%20Barely%20Remix%20Remaster-2017%29.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Battle 3(RPGツクール2000) Arranged",
+      "songUrl": "https://dl.dropboxusercontent.com/s/r4mw34no2ontzyr/03.%20Battle%203%28RPG%E3%83%84%E3%82%AF%E3%83%BC%E3%83%AB2000%29%20Arranged.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Sakura SRL",
+      "songUrl": "https://dl.dropboxusercontent.com/s/i8wseg85sk9sqhh/04.%20Sakura%20SRL.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "ススメ☆オトメ～jewel parade～ (3R Remix)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/7wc9jyi7xh23ufl/05.%20%E3%82%B9%E3%82%B9%E3%83%A1%E2%98%86%E3%82%AA%E3%83%88%E3%83%A1%EF%BD%9Ejewel%20parade%EF%BD%9E%20%283R%20Remix%29.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "ススメ☆オトメ～jewel parade～ (3R Remix)-Instrumental",
+      "songUrl": "https://dl.dropboxusercontent.com/s/wui8tt8cn1f7bya/06.%20%E3%82%B9%E3%82%B9%E3%83%A1%E2%98%86%E3%82%AA%E3%83%88%E3%83%A1%EF%BD%9Ejewel%20parade%EF%BD%9E%20%283R%20Remix%29-Instrumental.mp3",
+      "hideDetails": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "albumName": "Schmitt Trigger",
+  "theme": "coffee",
+  "downloadColor": "primary",
+  "releaseDate": "2017/12/17",
+  "downloadUrl": "https://www.dropbox.com/sh/1biwhyjlxszu0f3/AACdoIQaPilfbY3in-XV7jRaa?dl=0",
+  "albumDescription": "東方アレンジのアルバムその1",
+  "albumArtUrl": "https://bl3302files.storage.live.com/y4mMmpgXsEVoHe3xHDphLvtsET_RmK6wAXRk_Hhmzu3nj08_V4NZ49-YIYWN8zj6q5o82kzkFLIhBGXzraFEIermKioGmgoqNlN688FMXa0q9FH-DIHcADTiM9OHUZpqYa80jLSgKJ9YHGfsHnqUey4q1syyL8jqyaapZmyyGMdyXj4glzx2D4oqx2km3Evrhts?width=800&height=800&cropmode=none",
+  "songList": [
+    {
+      "songName": "Abode of the gods",
+      "songUrl": "https://dl.dropboxusercontent.com/s/po5qc3i12v2avkv/01.%20Abode%20of%20the%20gods.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "DesireofSEIGA",
+      "songUrl": "https://dl.dropboxusercontent.com/s/z76lldv9anlatwd/02.%20DesireofSEIGA.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Destruction Subterranean",
+      "songUrl": "https://dl.dropboxusercontent.com/s/k4ni7n47iqssrsf/03.%20Destruction%20Subterranean.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Nine in nine 2012",
+      "songUrl": "https://dl.dropboxusercontent.com/s/fwwqu17ca7fwk9w/04.%20Nine%20in%20nine%202012.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "So, she sings the poison song",
+      "songUrl": "https://dl.dropboxusercontent.com/s/nkeannlc63kpi2j/05.%20So%2C%20she%20sings%20the%20poison%20song.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "狂ったオルゴール",
+      "songUrl": "https://dl.dropboxusercontent.com/s/oa8m3ryb9iw9604/06.%20%E7%8B%82%E3%81%A3%E3%81%9F%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "古きユアンシェン",
+      "songUrl": "https://dl.dropboxusercontent.com/s/x3ji4wbm0ns107b/%E5%8F%A4%E3%81%8D%E3%83%A6%E3%82%A2%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%B3.mp3",
+      "hideDetails": true
+    }
+  ]
+}

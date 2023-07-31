@@ -1,0 +1,51 @@
+{
+  "albumName": "Hysteresis",
+  "theme": "coffee",
+  "downloadColor": "primary",
+  "releaseDate": "2017/12/17",
+  "downloadUrl": "https://www.dropbox.com/sh/vm9s95gnmbkhnfx/AABEs5gdhr1eE9u9JHsy-5oha?dl=0",
+  "albumDescription": "東方アレンジのアルバムその2",
+  "albumArtUrl": "https://bl3302files.storage.live.com/y4mMg1qmpLsANEFvhyflesjnymRT9_M43IV4u2YTpp7fACPUBPj2T7uC-Mm-kVBDTA297lIyT7OmKRLoVmT1KADB2WsUFiMXso8qhxDZ90BNcs4pKECrTyn8MiZVyTMxmDDI_HE5_IX5izzVQWT4i5CL9boUW92N9S9EM4Y9TrrFt7Q9OyXYD50bksRK-vAmDSg?width=800&height=800&cropmode=none",
+  "songList": [
+    {
+      "songName": "HinahinaMixer",
+      "songUrl": "https://dl.dropboxusercontent.com/s/y30k5wpynh3fnud/01.%20HinahinaMixer.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Ice Spike",
+      "songUrl": "https://dl.dropboxusercontent.com/s/ggt7xpgazocb5ei/02.%20Ice%20Spike.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "The rest of the fall",
+      "songUrl": "https://dl.dropboxusercontent.com/s/h7n7tjqdy03c2t4/03.%20The%20rest%20of%20the%20fall.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "ミストレイク",
+      "songUrl": "https://dl.dropboxusercontent.com/s/q8s1vxgmouqetqu/04.%20%E3%83%9F%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%82%AF.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "究極の竹茹",
+      "songUrl": "https://dl.dropboxusercontent.com/s/jt5cfw82770c1pa/05.%20%E7%A9%B6%E6%A5%B5%E3%81%AE%E7%AB%B9%E8%8C%B9.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "神子「祈ればババアでも子供は出来るよ」",
+      "songUrl": "https://dl.dropboxusercontent.com/s/a42v0q634v6nun1/06.%20%E7%A5%9E%E5%AD%90%E3%80%8C%E7%A5%88%E3%82%8C%E3%81%B0%E3%83%90%E3%83%90%E3%82%A2%E3%81%A7%E3%82%82%E5%AD%90%E4%BE%9B%E3%81%AF%E5%87%BA%E6%9D%A5%E3%82%8B%E3%82%88%E3%80%8D.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "A knife to the right, A Flower to the Left",
+      "songUrl": "https://dl.dropboxusercontent.com/s/lbmiogjjydh59bl/07.%20A%20knife%20to%20the%20right%2C%20A%20Flower%20to%20the%20Left.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Confessor of ALICE",
+      "songUrl": "https://dl.dropboxusercontent.com/s/9t1q8430f20uv2i/08.%20Confessor%20of%20ALICE.mp3",
+      "hideDetails": true
+    }
+  ]
+}

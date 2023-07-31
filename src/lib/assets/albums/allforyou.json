@@ -1,0 +1,32 @@
+{
+  "albumName": "ALL FOR YOU",
+  "query": "allforyou",
+  "theme": "lofi",
+  "downloadColor": "primary",
+  "releaseDate": "2018/9/2",
+  "downloadUrl": "https://1drv.ms/u/s!Ah9aQE8ok168jy4L3VsE7OPhA4Cc?e=hBGrDK",
+  "albumDescription": "何故かニコニコに上げたら全部消された、すべあなリミックス",
+  "albumArtUrl": "https://textsampleofmusic.files.wordpress.com/2019/05/allforyou.png",
+  "songList": [
+    {
+      "songName": "全て貴方の為です.",
+      "songUrl": "https://drive.google.com/uc?id=1Bhv798Q99v6yPvmbUoPsFOCKjVjZKr25",
+      "hideDetails": true
+    },
+    {
+      "songName": "全て貴方の為です..",
+      "songUrl": "https://drive.google.com/uc?id=1d0_VeCg5shKD05gKsp4JnErfmoj6j-nD",
+      "hideDetails": true
+    },
+    {
+      "songName": "全て貴方の為です.(Instrumental)",
+      "songUrl": "https://drive.google.com/uc?id=1IuHEq4h4x_zy8NxO4VlWwba_5FSrL5Cq",
+      "hideDetails": true
+    },
+    {
+      "songName": "全て貴方の為です..(Instrumental)",
+      "songUrl": "https://drive.google.com/uc?id=1UoeFQHZPugdicAxvgZ2XwEIIHXsnOJan",
+      "hideDetails": true
+    }
+  ]
+}

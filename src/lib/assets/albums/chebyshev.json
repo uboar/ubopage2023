@@ -1,0 +1,51 @@
+{
+  "albumName": "Chebyshev",
+  "theme": "business",
+  "downloadColor": "primary",
+  "releaseDate": "2017/12/17",
+  "downloadUrl": "https://www.dropbox.com/sh/nja8ck0lvejv5mi/AABfn6Shdj3lOClT67ZurVJha?dl=0",
+  "albumDescription": "2014～2016年頃のニコメドまとめアルバム",
+  "albumArtUrl": "https://bl3302files.storage.live.com/y4mkd4Rz-Iik2D54oEKKqIuVL5KZK92WbS1JUIQU1-ILjlRNeuY9xvvw-3BvKvzwiRVEluRyOr8tx48Nll_tjGXrcN8w-0LXNkyKQEk8rMCjy4Ez-NEkHxODhJJME1yv7faFvVvN-8CqIjxbfMzo-THjwm0pSFbOxyNkLjwEAuNeeOS1_IMoLglOUQ9dHGkJi6S?width=800&height=800&cropmode=none",
+  "songList": [
+    {
+      "songName": "一般オタ向けメドレー(Remaster-2017)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/sbxk9w6b34nplac/01.%20%E4%B8%80%E8%88%AC%E3%82%AA%E3%82%BF%E5%90%91%E3%81%91%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%28Remaster-2017%29.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Niconico Century",
+      "songUrl": "https://dl.dropboxusercontent.com/s/kqzwxqrxbiw2512/02.%20Niconico%20Century.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "THE IDOLM@STER MEDLEY +C",
+      "songUrl": "https://dl.dropboxusercontent.com/s/zobthkww4pu10kk/03.%20THE%20IDOLM%40STER%20MEDLEY%20%2BC.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Test Medley(2015-03-07)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/fub5erazybzsk32/04.%20Test%20Medley%282015-03-07%29.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "183 Medley(2014-04-20)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/i95z5oua6p5mgwr/05.%20183%20Medley%282014-04-20%29.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "One Hour Medley(2014-01-29)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/wwuychdj0cb5q0s/06.%20One%20Hour%20Medley%282014-01-29%29.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "AMX 40",
+      "songUrl": "https://dl.dropboxusercontent.com/s/giu5icqtfj24ot6/07.%20AMX%2040.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "一般オタ向けメドレー(Remaster-2017)-Instrumental",
+      "songUrl": "https://dl.dropboxusercontent.com/s/l11o33ic3l3c27b/08.%20%E4%B8%80%E8%88%AC%E3%82%AA%E3%82%BF%E5%90%91%E3%81%91%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%28Remaster-2017%29-Instrumental.mp3",
+      "hideDetails": true
+    }
+  ]
+}

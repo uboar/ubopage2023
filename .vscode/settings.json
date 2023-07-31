@@ -1,0 +1,7 @@
+{
+  "prettier.documentSelectors": ["**/*.svelte"],
+  "editor.formatOnSave": true,
+  "tailwindCSS.experimental.classRegex": [
+    ["tv\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]", "tw=\"[^)]*\""]
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "albumName": "UBOMEZ",
+  "releaseDate": "2021/07/03",
+  "theme": "dracula",
+  "downloadColor": "accent",
+  "downloadUrl": "https://1drv.ms/u/s!Ah9aQE8ok168khbRmMt6uDYq2M-3?e=qXGm4r",
+  "albumDescription": "2021年上半期くらいに作ったものまとめアルバム",
+  "albumArtUrl": "https://textsampleofmusic.files.wordpress.com/2021/07/pxl_20210627_035207979_2.jpg?w=1024",
+  "songList": [
+    {
+      "songName": "好きな曲繋いで重ねたらAIきりたん達が歌ってくれるってマジですか？！",
+      "songUrl": "https://dl.dropboxusercontent.com/s/ogjo8u6o9ubc3fq/01.%20%E5%A5%BD%E3%81%8D%E3%81%AA%E6%9B%B2%E7%B9%8B%E3%81%84%E3%81%A7%E9%87%8D%E3%81%AD%E3%81%9F%E3%82%89AI%E3%81%8D%E3%82%8A%E3%81%9F%E3%82%93%E9%81%94%E3%81%8C%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%81%A3%E3%81%A6%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F%EF%BC%81.mp3",
+      "nicoId": "sm38976250",
+      "songDescription": "NEUTRINO東北きりたん（と、愉快な仲間たち）による好きな曲メドレー第3弾!"
+    },
+    {
+      "songName": "THE POWER OF TERRY(Uncut Ver)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/uoa48ion81gg8mv/02.%20THE%20POWER%20OF%20TERRY%28Uncut%20Ver%29.mp3",
+      "youtubeId": "l4DLVmU9PZE",
+      "songDescription": "[Old Spice10周年記念合作](https://www.youtube.com/watch?v=OYG8Ul276-w)、のメドレー単品、の尺の都合でカットされた部分を加えた完全版。\n(動画はカットされた版)"
+    },
+    {
+      "songName": "New Year’s Dreams 2020 ~ Shimokita Olympics(uboar Only)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/xq0h6a0sqdy25u7/03.%20New%20Year%27s%20Dreams%202020%20~%20Shimokita%20Olympics%28uboar%20Only%29.mp3",
+      "nicoId": "sm38197365",
+      "songDescription": "[汚い初夢合作](https://www.nicovideo.jp/watch/sm38061654)のメドレー単品、のウボァーが作ってる所（中盤）"
+    },
+    {
+      "songName": "ゼンニンモドキ(Ya Barely Remix)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/hxunn9noxcmy6kb/04.%20%E3%82%BC%E3%83%B3%E3%83%8B%E3%83%B3%E3%83%A2%E3%83%89%E3%82%AD%28Ya%20Barely%20Remix%29.mp3",
+      "nicoId": "sm38340785",
+      "songDescription": "波崎透さんのウナ曲りみっくす　[元も見てね！](https://www.nicovideo.jp/watch/sm38005972)"
+    },
+    {
+      "songName": "緊急事能宣言",
+      "songUrl": "https://dl.dropboxusercontent.com/s/6r392qnlew84rwj/05.%20%E7%B7%8A%E6%80%A5%E4%BA%8B%E8%83%BD%E5%AE%A3%E8%A8%80.mp3",
+      "nicoId": "sm38099817",
+      "songDescription": "ストピくんで作った曲!"
+    },
+    {
+      "songName": "かわいそうじゃ抜けない(Ya Barely Remix)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/5vyop5lzw5lhl5j/06.%20%E3%81%8B%E3%82%8F%E3%81%84%E3%81%9D%E3%81%86%E3%81%98%E3%82%83%E6%8A%9C%E3%81%91%E3%81%AA%E3%81%84%28Ya%20Barely%20Remix%29.mp3",
+      "nicoId": "sm37028205",
+      "songDescription": "かわいそうはかわいい(動画はオリジナル)"
+    },
+    {
+      "songName": "好きな曲繋いで重ねたらAIきりたん達が歌ってくれるってマジですか？！(Instrumental)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/c4fljtnrkewyohj/07.%20%E5%A5%BD%E3%81%8D%E3%81%AA%E6%9B%B2%E7%B9%8B%E3%81%84%E3%81%A7%E9%87%8D%E3%81%AD%E3%81%9F%E3%82%89AI%E3%81%8D%E3%82%8A%E3%81%9F%E3%82%93%E9%81%94%E3%81%8C%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%81%A3%E3%81%A6%E3%83%9E%E3%82%B8%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F%EF%BC%81%28Instrumental%29.mp3",
+      "hideDetails": true,
+      "songDescription": "とりあえずなんか書いとけ"
+    },
+    {
+      "songName": "THE POWER OF TERRY(Original Ver)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/tp1s2m5gxyl2uxh/08.%20THE%20POWER%20OF%20TERRY%28Original%20Ver%29.mp3",
+      "nicoId": "sm38181231",
+      "songDescription": "[Old Spice10周年記念合作](https://www.youtube.com/watch?v=OYG8Ul276-w)、のメドレー単品、のカットされてる方"
+    },
+    {
+      "songName": "ゼンニンモドキ(Ya Barely Remix Instrumental)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/6tg2xc26r43rcgd/09.%20%E3%82%BC%E3%83%B3%E3%83%8B%E3%83%B3%E3%83%A2%E3%83%89%E3%82%AD%28Ya%20Barely%20Remix%20Instrumental%29.mp3",
+      "hideDetails": true,
+      "songDescription": "とりあえずなんか書いとけ"
+    },
+    {
+      "songName": "緊急事能宣言(Instrumental)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/mjk3ota1dngta3b/10.%20%E7%B7%8A%E6%80%A5%E4%BA%8B%E8%83%BD%E5%AE%A3%E8%A8%80%28Instrumental%29.mp3",
+      "hideDetails": true,
+      "songDescription": "とりあえずなんか書いとけ"
+    },
+    {
+      "songName": "かわいそうじゃ抜けない(Ya Barely Remix Instrumental)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/z2fyc06fxbvkzad/11.%20%E3%81%8B%E3%82%8F%E3%81%84%E3%81%9D%E3%81%86%E3%81%98%E3%82%83%E6%8A%9C%E3%81%91%E3%81%AA%E3%81%84%28Ya%20Barely%20Remix%20Instrumental%29.mp3",
+      "hideDetails": true,
+      "songDescription": "とりあえずなんか書いとけ"
+    }
+  ]
+}

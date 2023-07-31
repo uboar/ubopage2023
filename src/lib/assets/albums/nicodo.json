@@ -1,0 +1,84 @@
+{
+  "albumName": "ニ鼓動 -NICONICO HEARTBEAT-",
+  "theme": "night",
+  "releaseDate": "2020/11/21",
+  "downloadColor": "accent",
+  "downloadUrl": "https://1drv.ms/u/s!Ah9aQE8ok168khebBfWPRCvc1YaT?e=Cpp6cT",
+  "albumDescription": "2020年あたりの創作物アルバム",
+  "albumArtUrl": "https://textsampleofmusic.files.wordpress.com/2020/11/soundtrack-1.png?w=1024",
+  "songList": [
+    {
+      "songName": "ニ鼓動 -NICONICO HEARTBEAT-",
+      "songUrl": "https://dl.dropboxusercontent.com/s/cbqe2ycaxipjq8y/01.%20%E3%83%8B%E9%BC%93%E5%8B%95%20-NICONICO%20HEARTBEAT-.mp3",
+      "nicoId": "sm37850744",
+      "songDescription": "動いて、鳴らして、繋いで、重ねて、メドレーにしました。"
+    },
+    {
+      "songName": "ニ鼓動 -NICONICO HEARTBEAT-(Secret ver)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/c8mjmk1h4t6090s/02.%20%E3%83%8B%E9%BC%93%E5%8B%95%20-NICONICO%20HEARTBEAT-%28Secret%20ver%29.mp3",
+      "nicoId": "sm37883914",
+      "songDescription": "重ねて、重ねて、重ねて、重ねて、メドレーにしました。\nふつうのニ鼓動に入っている隠しをを聞き取りやすくしたものです。"
+    },
+    {
+      "songName": "うちで踊ろうから曲を繋いでAIきりたんが歌うよ",
+      "songUrl": "https://dl.dropboxusercontent.com/s/gvqai1rir0f0ojc/03.%20%E3%81%86%E3%81%A1%E3%81%A7%E8%B8%8A%E3%82%8D%E3%81%86%E3%81%8B%E3%82%89%E6%9B%B2%E3%82%92%E7%B9%8B%E3%81%84%E3%81%A7AI%E3%81%8D%E3%82%8A%E3%81%9F%E3%82%93%E3%81%8C%E6%AD%8C%E3%81%86%E3%82%88.mp3",
+      "nicoId": "sm36698034",
+      "songDescription": "NEUTRINO東北きりたんによる好きな曲メドレー第1弾!"
+    },
+    {
+      "songName": "AIきりたんに歌って頂きたい曲達のメドレー",
+      "songUrl": "https://dl.dropboxusercontent.com/s/3173kkr9iqxk7o0/04.%20AI%E3%81%8D%E3%82%8A%E3%81%9F%E3%82%93%E3%81%AB%E6%AD%8C%E3%81%A3%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%9F%E3%81%84%E6%9B%B2%E9%81%94%E3%81%AE%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC.mp3",
+      "nicoId": "sm37366948",
+      "songDescription": "NEUTRINO東北きりたんによる好きな曲メドレー第2弾!"
+    },
+    {
+      "songName": "アンインストール(Ya Barely Remix)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/xhfnsrabjec4m14/05.%20%E3%82%A2%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%28Ya%20Barely%20Remix%29.mp3",
+      "nicoId": "sm37577841",
+      "songDescription": "NEUTRINO東北イタコさんによる**あんいんすとー**なリミックス"
+    },
+    {
+      "songName": "フェイク(Ya Barely Remix)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/bn558huu5es6g47/06.%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%28Ya%20Barely%20Remix%29.mp3",
+      "nicoId": "sm37279200",
+      "songDescription": "ピッチ上ウボによるミスチルリミックス\nサムネの左下にAviutlのUI残ってて草"
+    },
+    {
+      "songName": "ニ鼓動 -NICONICO HEARTBEAT-(Off Vocal)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/fpayzii1avy40dp/07.%20%E3%83%8B%E9%BC%93%E5%8B%95%20-NICONICO%20HEARTBEAT-%28Off%20Vocal%29.mp3",
+      "hideDetails": true,
+      "songDescription": "とりあえずなんか書いとけ"
+    },
+    {
+      "songName": "うちで踊ろうから曲を繋いでAIきりたんが歌うよ(Instrumental)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/f2n0d3ppp6hakpg/08.%20%E3%81%86%E3%81%A1%E3%81%A7%E8%B8%8A%E3%82%8D%E3%81%86%E3%81%8B%E3%82%89%E6%9B%B2%E3%82%92%E7%B9%8B%E3%81%84%E3%81%A7AI%E3%81%8D%E3%82%8A%E3%81%9F%E3%82%93%E3%81%8C%E6%AD%8C%E3%81%86%E3%82%88%28Instrumental%29.mp3",
+      "hideDetails": true,
+      "songDescription": "とりあえずなんか書いとけ"
+    },
+    {
+      "songName": "AIきりたんに歌って頂きたい曲達のメドレー(Instrumental)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/v8ot5j8bgh5upni/09.%20AI%E3%81%8D%E3%82%8A%E3%81%9F%E3%82%93%E3%81%AB%E6%AD%8C%E3%81%A3%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%9F%E3%81%84%E6%9B%B2%E9%81%94%E3%81%AE%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%28Instrumental%29.mp3",
+      "hideDetails": true,
+      "songDescription": "とりあえずなんか書いとけ"
+    },
+    {
+      "songName": "アンインストール(Ya Barely Remix Instrumental)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/ypona6oact9v7pr/10.%20%E3%82%A2%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%28Ya%20Barely%20Remix%20Instrumental%29.mp3",
+      "hideDetails": true,
+      "songDescription": "とりあえずなんか書いとけ"
+    },
+    {
+      "songName": "フェイク(Ya Barely Remix Instrumental)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/o2vlz3219fwhxs6/11.%20%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%28Ya%20Barely%20Remix%20Instrumental%29.mp3",
+      "hideDetails": true,
+      "songDescription": "とりあえずなんか書いとけ"
+    },
+    {
+      "songName": "BONUS TRACK",
+      "songUrl": "",
+      "hideDetails": true,
+      "hidePlay": true,
+      "songDescription": "とりあえずなんか書いとけ"
+    }
+  ]
+}

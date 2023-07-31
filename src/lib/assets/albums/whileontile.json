@@ -1,0 +1,46 @@
+{
+  "albumName": "WHILE ON TILE",
+  "theme": "synthwave",
+  "downloadColor": "success",
+  "releaseDate": "2019/05/18",
+  "downloadUrl": "https://1drv.ms/u/s!Ah9aQE8ok168ihZ9oZLfkkvbSLmd",
+  "albumDescription": "ある謎のVTuberの墓標",
+  "albumArtUrl": "https://textsampleofmusic.files.wordpress.com/2019/05/whileontile.png",
+  "songList": [
+    {
+      "songName": "JellyFish. feat.芽渡たいる",
+      "songUrl": "https://drive.google.com/uc?id=1JNtut83Ik91wKhW5eIfOiwbkzluckIk1",
+      "hideDetails": true
+    },
+    {
+      "songName": "クーネル・エンゲイザー(Ya Barely Remix)",
+      "songUrl": "https://drive.google.com/uc?id=1PXm9jX3UIPQgn2FrUEXfM9ityirInm_I",
+      "hideDetails": true
+    },
+    {
+      "songName": "あさいゆめ feat.芽渡たいる",
+      "songUrl": "https://drive.google.com/uc?id=1AqMceVCBJNZmCrQwuvi6v4P1V_5BkQ-A",
+      "hideDetails": true
+    },
+    {
+      "songName": "JellyFish. feat.芽渡たいる(Instrumental)",
+      "songUrl": "https://drive.google.com/uc?id=17rDBZAxnHduSt_sls6zkFfSkspJ08AsX",
+      "hideDetails": true
+    },
+    {
+      "songName": "クーネル・エンゲイザー(Ya Barely Remix Instrumental)",
+      "songUrl": "https://drive.google.com/uc?id=1SBI2UUudVKHAzdZWLffIN-3RylK9JQlC",
+      "hideDetails": true
+    },
+    {
+      "songName": "あさいゆめ feat.芽渡たいる(Instrumental)",
+      "songUrl": "https://drive.google.com/uc?id=1eyX22pRgQdl1dMSGDtxUMgFg6csjAXCc",
+      "hideDetails": true
+    },
+    {
+      "songName": "BONUS TRACK",
+      "hideDetails": true,
+      "hidePlay": true
+    }
+  ]
+}

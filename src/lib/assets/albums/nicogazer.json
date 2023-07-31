@@ -1,0 +1,89 @@
+{
+  "albumName": "#NICOGAZER",
+  "theme": "autumn",
+  "downloadColor": "primary",
+  "releaseDate": "2019/08/10",
+  "downloadUrl": "https://1drv.ms/u/s!Ah9aQE8ok168in_2Q2BCRWb4MwOj?e=QChq0i",
+  "albumDescription": "ニコメドDJM投稿祭で同時発表、Nofuさんとのコラボアルバム。",
+  "albumArtUrl": "https://textsampleofmusic.files.wordpress.com/2019/08/albumlogo_r.jpg",
+  "songList": [
+    {
+      "songName": "ニコをみるもの #NICOGAZER / 焼畑農業",
+      "songUrl": "https://dl.dropboxusercontent.com/s/qhkx4u9m5ilgozb/01.%E3%83%8B%E3%82%B3%E3%82%92%E3%81%BF%E3%82%8B%E3%82%82%E3%81%AE%20%23NICOGAZER.mp3",
+      "nicoId": "sm35498039",
+      "songDescription": "今まで**見**たり**聞**いたあの音に、もう一度**飛**び込もう。"
+    },
+    {
+      "songName": "Mad Mew Mew(Nofu arrange) / Nofu",
+      "songUrl": "https://dl.dropboxusercontent.com/s/yts5u0m7i6cuwn9/02.Mad%20Mew%20Mew%28Nofu%20arrange%29.mp3",
+      "youtubeId": "2rk_KqrJPGE",
+      "songDescription": "バ美肉おじさんの曲です。"
+    },
+    {
+      "songName": "蝕まれちゃった(Ya Barely Remix) / uboar feat.芽渡たいる",
+      "songUrl": "https://dl.dropboxusercontent.com/s/ofue9t7tczr0s7q/03.%E8%9D%95%E3%81%BE%E3%82%8C%E3%81%A1%E3%82%83%E3%81%A3%E3%81%9F%28Ya%20Barely%20Remix%29.mp3",
+      "nicoId": "sm35315143",
+      "songDescription": "メドクラコンピ2に収録した曲です。[原作はこれ](https://www.youtube.com/watch?v=nZcVFMj690I)"
+    },
+    {
+      "songName": "Rude Buster(Nofu arrange) / Nofu",
+      "songUrl": "https://dl.dropboxusercontent.com/s/gg7phct4tq6gna9/04.Rude%20Buster%28Nofu%20arrange%29.mp3",
+      "nicoId": "sm34167659",
+      "songDescription": "続き早よ"
+    },
+    {
+      "songName": "カオカオカラダ(Ya Barely Remix) / uboar",
+      "songUrl": "https://dl.dropboxusercontent.com/s/cshfvwrj6gf9shf/05.%E3%82%AB%E3%82%AA%E3%82%AB%E3%82%AA%E3%82%AB%E3%83%A9%E3%83%80%28Ya%20Barely%20Remix%29.mp3",
+      "nicoId": "sm34522838",
+      "songDescription": "あったんだってさ [原作はこれ](https://www.youtube.com/watch?v=VJFHeQ2gnbs)"
+    },
+    {
+      "songName": "とまどい→レシピ(Nofu arrange) / Nofu",
+      "songUrl": "https://dl.dropboxusercontent.com/s/7qs6zq7r14n7l9d/06.%E3%81%A8%E3%81%BE%E3%81%A9%E3%81%84%E2%86%92%E3%83%AC%E3%82%B7%E3%83%94%28Nofu%20arrange%29.mp3",
+      "nicoId": "sm34860574",
+      "songDescription": "小紅かわいい"
+    },
+    {
+      "songName": "和風と予熱 / uboar",
+      "songUrl": "https://dl.dropboxusercontent.com/s/w4qtbkevotviyhj/07.%E5%92%8C%E9%A2%A8%E3%81%A8%E4%BA%88%E7%86%B1.mp3",
+      "nicoId": "sm34649313",
+      "songDescription": "[夜風と微熱](https://www.nicovideo.jp/watch/sm33265398)との直接的な関係はありません。"
+    },
+    {
+      "songName": "ワルイージピンボール(Nofu arrange) / Nofu",
+      "songUrl": "https://dl.dropboxusercontent.com/s/k1gvytvel5udq98/08.%E3%83%AF%E3%83%AB%E3%82%A4%E3%83%BC%E3%82%B8%E3%83%94%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%28Nofu%20arrange%29.mp3",
+      "nicoId": "sm35340859",
+      "songDescription": "ざます"
+    },
+    {
+      "songName": "クーネル・エンゲイザー(Ya Barely Remix) / uboar feat.芽渡たいる",
+      "songUrl": "https://dl.dropboxusercontent.com/s/eojaqm5k8s9z80a/09.%E3%82%AF%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%B2%E3%82%A4%E3%82%B6%E3%83%BC%28Ya%20Barely%20Remix%29.mp3",
+      "nicoId": "sm34877700",
+      "songDescription": "[これ聞いて](https://www.nicovideo.jp/watch/sm34594493)"
+    },
+    {
+      "songName": "ヤツメ穴(Nofu arrange) / Nofu",
+      "songUrl": "https://dl.dropboxusercontent.com/s/phx1hh6csjx9zz9/10.%E3%83%A4%E3%83%84%E3%83%A1%E7%A9%B4%28Nofu%20arrange%29.mp3",
+      "nicoId": "sm35505301",
+      "songDescription": "初ウナギです。"
+    },
+    {
+      "songName": "柴又穴 / uboar",
+      "songUrl": "https://dl.dropboxusercontent.com/s/g4bi17f1p1d24hv/11.%E6%9F%B4%E5%8F%88%E7%A9%B4.mp3",
+      "nicoId": "sm32608256",
+      "songDescription": "音MAD要素はありません"
+    },
+    {
+      "songName": "柴又(Nofu arrange) / Nofu",
+      "songUrl": "https://dl.dropboxusercontent.com/s/h5e2x4yhw35s2wl/12.%E6%9F%B4%E5%8F%88%28Nofu%20arrange%29.mp3",
+      "nicoId": "sm33751553",
+      "songDescription": "2号兄貴に会いに行きます。"
+    },
+    {
+      "songName": "ThreeState / uboar",
+      "songUrl": "https://dl.dropboxusercontent.com/s/67n950zw7swbfwj/13.ThreeState.mp3",
+      "nicoId": "sm33943978",
+      "songDescription": "いろんなものに影響されてできています。"
+    }
+  ]
+}

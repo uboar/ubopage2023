@@ -1,0 +1,51 @@
+{
+  "albumName": "Astable",
+  "theme": "business",
+  "downloadColor": "primary",
+  "releaseDate": "2017/12/17",
+  "downloadUrl": "https://www.dropbox.com/sh/l4ocdxw06ygw871/AABqaGplORwms7Mu_tHa6WjSa?dl=0",
+  "albumDescription": "2012～2013年頃のニコメドまとめアルバム",
+  "albumArtUrl": "https://bl3302files.storage.live.com/y4mJFjteEM7yc523HEpu1FrxuO8HfAZjn1A95TXWu2guP21BPZb5Do4ME3FhEdavZClJkhgwTh9xGxX9trZ--MioIBMCKgE71_T1rHGgcLHFnyn01BFDzdL4R3v1Yr7TpGnpjOGxMNzZyogBFkiO_j71Nv4GR9y4wKza0wlx585-UKod77IZbLuwhnFUSTCDot7?width=800&height=800&cropmode=none",
+  "songList": [
+    {
+      "songName": "Niconico Gradation(Remaster-2017)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/86qs750vot5l2eg/01.%20Niconico%20Gradation%28Remaster-2017%29.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "TNMM ～ニコニコメドレーでニコニコメドレー～(Remaster-2017)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/4h7pmsts2c9wcxj/02.%20TNMM%20%EF%BD%9E%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%E3%81%A7%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E3%83%A1%E3%83%89%E3%83%AC%E3%83%BC%EF%BD%9E%28Remaster-2017%29.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "ニコニコ動画大集結!!",
+      "songUrl": "https://dl.dropboxusercontent.com/s/vcteq0ii8c07qkk/03.%20%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%8B%95%E7%94%BB%E5%A4%A7%E9%9B%86%E7%B5%90%21%21.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "nicoteen - 13",
+      "songUrl": "https://dl.dropboxusercontent.com/s/i5f755n0off8crv/04.%20nicoteen%20-%2013.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Nico-Ster!",
+      "songUrl": "https://dl.dropboxusercontent.com/s/sxph0p6jqbfr7y8/05.%20Nico-Ster%21.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "niconicofall-puti",
+      "songUrl": "https://dl.dropboxusercontent.com/s/00l7petieec9cvx/06.%20niconicofall-puti.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "183 Medley(2013)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/r1hqa6neyfc9eah/07.%20183%20Medley%282013%29.mp3",
+      "hideDetails": true
+    },
+    {
+      "songName": "Medley Prototype(2013-10-05)",
+      "songUrl": "https://dl.dropboxusercontent.com/s/s5qfkfyu28te4rr/08.%20Medley%20Prototype%282013-10-05%29.mp3",
+      "hideDetails": true
+    }
+  ]
+}
