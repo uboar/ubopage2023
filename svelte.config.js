@@ -29,6 +29,7 @@ const config = {
 				"/collection",
 				"/headline",
 				"/albums",
+				"/albums/utateg",
 				"/albums/ikij",
 				"/albums/skut",
 				"/albums/ubomez",

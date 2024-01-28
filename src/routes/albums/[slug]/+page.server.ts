@@ -22,6 +22,7 @@ export type AlbumData = {
   songList: AlbumSong[];
 };
 
+import utateg from "$lib/assets/albums/utateg.json";
 import ikij from "$lib/assets/albums/ikij.json";
 import skut from "$lib/assets/albums/skut.json";
 import ubomez from "$lib/assets/albums/ubomez.json";
@@ -40,6 +41,7 @@ import pushpull from "$lib/assets/albums/pushpull.json";
 import fieldeffect from "$lib/assets/albums/fieldeffect.json";
 
 export const load = (async ({ params }) => {
+  if (params.slug === "utateg") return utateg as AlbumData;
   if (params.slug === "ikij") return ikij as AlbumData;
   if (params.slug === "skut") return skut as AlbumData;
   if (params.slug === "ubomez") return ubomez as AlbumData;

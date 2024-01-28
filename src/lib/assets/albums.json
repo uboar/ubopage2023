@@ -1,5 +1,12 @@
 [
   {
+    "name": "歌右結合",
+    "releaseDate": "2023/12/19",
+    "path": "/albums/utateg",
+    "theme": "emerald",
+    "albumArtUrl": "https://s3.ap-northeast-1.wasabisys.com/s3.nicomedkey.cc/public/utateg_albumart.jpg"
+  },
+  {
     "name": "一曲以上",
     "releaseDate": "2023/4/25",
     "path": "/albums/ikij",

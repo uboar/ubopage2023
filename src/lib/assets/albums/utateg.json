@@ -1,0 +1,87 @@
+{
+  "albumName": "歌右結合",
+  "releaseDate": "2023/12/19",
+  "downloadUrl": "https://1drv.ms/f/s!Ah9aQE8ok168nR10NkmaFPs3Gmqh?e=WbhdNu",
+  "albumDescription": "2023年後期くらいに作ったものまとめアルバム",
+  "albumArtUrl": "https://s3.ap-northeast-1.wasabisys.com/s3.nicomedkey.cc/public/utateg_albumart.jpg",
+  "songList": [
+    {
+      "songName": "ウタ→インテグレーション",
+      "songUrl": "*",
+      "nicoId": "sm43152956",
+      "songDescription": "好きな曲を結合して、50人以上の合成音声のみんなで歌いました。"
+    },
+    {
+      "songName": "オーバーテイカーガール",
+      "songUrl": "*",
+      "nicoId": "sm42604058",
+      "songDescription": "じゃあ蕾なわたしもよろしくね！"
+    },
+    {
+      "songName": "めみこあありかちきうみせさついゆあゆかずせずまぐて",
+      "songUrl": "*",
+      "nicoId": "sm42360827",
+      "songDescription": "めどれです"
+    },
+    {
+      "songName": "ふたつの",
+      "songUrl": "*",
+      "nicoId": "sm42221321",
+      "songDescription": "つのふたはいいぞ"
+    },
+    {
+      "songName": "Marshmallow day(音街ウナ Cover)",
+      "songUrl": "*",
+      "nicoId": "sm42385902",
+      "songDescription": "VOCALOID6 音街ウナの発売に合わせて作ったカバーソングです。"
+    },
+    {
+      "songName": "道化師協奏会 ～Concert of McDonald～(uboar only)",
+      "songUrl": "*",
+      "nicoId": "sm42536988",
+      "songDescription": "ドナルド音MAD合作に合わせて書き下ろしたメドレーのウボァーだけバージョンです。"
+    },
+    {
+      "songName": "もうひとつの未来～starry spirits～(桜乃そら Cover)",
+      "songUrl": "*",
+      "nicoId": "sm42664259",
+      "songDescription": "SynthesizerV 桜乃そらの発売に合わせて作ったカバーソングです。"
+    },
+    {
+      "songName": "サイディリアル・クルーズ",
+      "songUrl": "*",
+      "nicoId": "sm42804397",
+      "songDescription": "ボイスコネクト3で頒布したEP「つのそん」に収録されている曲です。"
+    },
+    {
+      "songName": "ウタ→インテグレーション(Instrumental)",
+      "songUrl": "*",
+      "hideDetails": true
+    },
+    {
+      "songName": "オーバーテイカーガール(Instrumental)",
+      "songUrl": "*",
+      "hideDetails": true
+    },
+    {
+      "songName": "めみこあありかちきうみせさついゆあゆかずせずまぐて(Instrumental)",
+      "songUrl": "*",
+      "hideDetails": true
+    },
+    {
+      "songName": "ふたつの(Instrumental)",
+      "songUrl": "*",
+      "hideDetails": true
+    },
+    {
+      "songName": "サイディリアル・クルーズ(Instrumental)",
+      "songUrl": "*",
+      "hideDetails": true
+    },
+    {
+      "songName": "BONUS TRACK",
+      "songUrl": "*",
+      "hideDetails": true
+    }
+  ]
+}
