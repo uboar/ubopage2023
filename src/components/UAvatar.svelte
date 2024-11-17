@@ -10,11 +10,18 @@
   NICONICO MEDLEY / DTM / ILLUST / VIDEO / ELECTRIC DEV / VOICE SYNTHESIS / WEB
   DEV etc...
 </div>
+<div class="contact">CONTACT : uboaruboar@gmail.com</div>
 
 <style lang="postcss">
   .tags {
     @apply w-80 self-center text-justify text-xs;
     text-align-last: justify;
+    color: theme(colors.slate.500);
+    font-family: "Lexend Variable", sans-serif;
+  }
+
+  .contact {
+    @apply w-80 self-center text-center text-xs;
     color: theme(colors.slate.500);
     font-family: "Lexend Variable", sans-serif;
   }
