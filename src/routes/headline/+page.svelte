@@ -20,7 +20,7 @@
   class="animate__animated animate__fadeIn flex flex-col gap-2 md:items-center"
 >
   <div class="link-header">HEADLINE</div>
-  <div class="mx-12 overflow-y-auto px-2 md:mx-0 md:w-96">
+  <div class="mx-12 overflow-y-auto px-2 md:mx-0 md:w-[128]">
     <Timeline class="dark:border-primary-500">
       <VirtualScroll data={data.contents} key="id" let:data>
         <TimelineItem
